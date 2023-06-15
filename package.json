@@ -15,7 +15,7 @@
     "@buffetjs/styles": "3.3.8",
     "@buffetjs/utils": "3.3.8",
     "@sindresorhus/slugify": "1.1.0",
-    "fs-extra": "^9.1.0",
+    "fs-extra": "^11.1.1",
     "immutable": "^3.8.2",
     "lodash": "4.17.21",
     "pluralize": "^8.0.0",
@@ -29,32 +29,14 @@
     "redux": "^4.0.1",
     "redux-immutable": "^4.0.0",
     "reselect": "^4.0.0",
-    "strapi-generate": "3.6.11",
-    "strapi-generate-api": "3.6.11",
-    "strapi-helper-plugin": "3.6.11",
-    "strapi-utils": "3.6.11",
-    "yup": "^0.32.9"
-  },
-  "author": {
-    "name": "Strapi team",
-    "email": "hi@strapi.io",
-    "url": "https://strapi.io"
-  },
-  "maintainers": [
-    {
-      "name": "Strapi team",
-      "email": "hi@strapi.io",
-      "url": "https://strapi.io"
-    }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "strapi-generate": "ssh://git@github.com/game-school/strapi-generate",
+    "strapi-generate-api": "ssh://git@github.com/game-school/strapi-generate-api",
+    "strapi-helper-plugin": "ssh://git@github.com/game-school/strapi-helper-plugin",
+    "strapi-utils": "ssh://git@github.com/game-school/strapi-utils.git",
+    "yup": "^1.2.0"
   },
   "engines": {
-    "node": ">=10.16.0 <=14.x.x",
+    "node": ">=10.16.0 <=18.x.x",
     "npm": ">=6.0.0"
-  },
-  "license": "SEE LICENSE IN LICENSE",
-  "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
+  }
 }
