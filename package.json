@@ -29,9 +29,9 @@
     "redux": "^4.0.1",
     "redux-immutable": "^4.0.0",
     "reselect": "^4.0.0",
-    "strapi-generate": "ssh://git@github.com/game-school/strapi-generate",
-    "strapi-generate-api": "ssh://git@github.com/game-school/strapi-generate-api",
-    "strapi-helper-plugin": "ssh://git@github.com/game-school/strapi-helper-plugin",
+    "strapi-generate": "ssh://git@github.com/game-school/strapi-generate.git",
+    "strapi-generate-api": "ssh://git@github.com/game-school/strapi-generate-api.git",
+    "strapi-helper-plugin": "ssh://git@github.com/game-school/strapi-helper-plugin.git",
     "strapi-utils": "ssh://git@github.com/game-school/strapi-utils.git",
     "yup": "^1.2.0"
   },
