@@ -33,7 +33,7 @@
     "strapi-generate-api": "ssh://git@github.com/game-school/strapi-generate-api.git",
     "strapi-helper-plugin": "ssh://git@github.com/game-school/strapi-helper-plugin.git",
     "strapi-utils": "ssh://git@github.com/game-school/strapi-utils.git",
-    "yup": "^1.2.0"
+    "yup": "^0.32.9"
   },
   "engines": {
     "node": ">=10.16.0 <=18.x.x",
